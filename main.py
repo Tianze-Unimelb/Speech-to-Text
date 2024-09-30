@@ -1,4 +1,6 @@
 # Tianze Created this code in 9/30/2024
+# Before use, you need to download the matching model VOSK
+# Please go to this cloud storage website to get it:https://pan.baidu.com/s/1UUaPZ4l-xPLOuyJU9tmdXw Pin:6666
 import json
 import pyaudio
 import numpy as np
