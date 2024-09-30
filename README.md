@@ -1,6 +1,6 @@
 # Speech-to-Text
 # Overview
-The Recorder class is a Python implementation of an audio recording and transcription tool using the Vosk speech recognition library. It enables recording audio via the microphone, and subsequently transcribing the audio into text using a specified Vosk model.
+This is a tool for audio recording and transcription using the Vosk speech recognition library, written in Python.It enables recording audio via the microphone, and subsequently transcribing the audio into text using a specified Vosk model.
 # Features
 - **Real-time audio recording:** Capture audio input from the microphone.
 - **Voice activity detection (VAD):** Automatically stops recording when the sound falls below a certain threshold for a set duration.
