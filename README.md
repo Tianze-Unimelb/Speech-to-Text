@@ -1,6 +1,6 @@
 # Speech-to-Text
 # Overview
-This is a tool for audio recording and transcription using the Vosk speech recognition library, written in Python.It enables recording audio via the microphone, and subsequently transcribing the audio into text using a specified Vosk model.
+This is an offline tool for audio recording and transcription using the Vosk speech recognition library, written in Python. It is able to record audio through a microphone and then transcribe the audio into text using the specified Vosk model.
 # Features
 - **Real-time audio recording:** Capture audio input from the microphone.
 - **Voice activity detection (VAD):** Automatically stops recording when the sound falls below a certain threshold for a set duration.
